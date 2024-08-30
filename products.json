@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "MeowMix", "price": 29.99, "image": "https://image.chewy.com/is/image/catalog/99943_MAIN._AC_SL600_V1670620210_.jpg"},
+    { "id": 2, "name": "Whiskas", "price": 19.99, "image": "https://m.media-amazon.com/images/I/81feGaYIF3L._AC_UF1000,1000_QL80_.jpg" },
+    { "id": 3, "name": "9Lives", "price": 39.99, "image": "https://m.media-amazon.com/images/I/714+GzxMLML._AC_UF1000,1000_QL80_.jpg" }
+]
